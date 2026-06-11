@@ -1,10 +1,239 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "phone": "+1 306-825-4716",
     "phone_href": "tel:+13068254716",
     "email": "info@signsnmore.ca",
     "address": "1C1, 1809 50 Ave, Lloydminster, SK",
-    "instagram": "https://instagram.com"
+    "instagram": "https://instagram.com",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {}
+      },
+      "hero": {
+        "type": "hero",
+        "settings": {
+          "eyebrow": "Lloydminster, SK · Est. Local",
+          "heading": "Signs that work as hard as your business.",
+          "subheading": "From rolling billboards to storefronts that pull traffic — we design, print, and install signage that gets you noticed across the prairies.",
+          "cta_label": "Get a free quote",
+          "cta_link": "#contact"
+        }
+      },
+      "marquee": {
+        "type": "marquee",
+        "settings": {
+          "items": "Vehicle Wraps, Channel Letters, Vinyl Banners, Decals, Trade Show Displays, Apparel Print, Magnetic Signs, ACM Panels, Reflective Decals, Window Graphics"
+        }
+      },
+      "services": {
+        "type": "services",
+        "blocks": {
+          "service_MtFNdx": {
+            "type": "service",
+            "settings": {
+              "title": "Vehicle Wraps & Decals",
+              "body": "Partial wraps, full wraps, fleet branding, and cut lettering. High-performance vinyl built for prairie winters."
+            }
+          },
+          "service_Q8NHWt": {
+            "type": "service",
+            "settings": {
+              "title": "Storefront & Business Signs",
+              "body": "Illuminated channel letters, dimensional signage, ACM panels, and exterior installs that earn second looks."
+            }
+          },
+          "service_FaAL4W": {
+            "type": "service",
+            "settings": {
+              "title": "Banners & Event Signage",
+              "body": "Vinyl banners, retractable displays, trade show backdrops — printed sharp, shipped fast."
+            }
+          },
+          "service_XXardt": {
+            "type": "service",
+            "settings": {
+              "title": "Promo Products & Apparel",
+              "body": "Branded merch, custom apparel, hats and giveaways — your logo on the things that get used every day."
+            }
+          }
+        },
+        "block_order": [
+          "service_MtFNdx",
+          "service_Q8NHWt",
+          "service_FaAL4W",
+          "service_XXardt"
+        ],
+        "settings": {
+          "heading": "Built in-house. Installed by us."
+        }
+      },
+      "process": {
+        "type": "process",
+        "blocks": {
+          "step_zyJV4n": {
+            "type": "step",
+            "settings": {
+              "title": "Tell us what you need",
+              "body": "Call, email or stop by the shop. We listen first — then quote fast."
+            }
+          },
+          "step_A8QJfA": {
+            "type": "step",
+            "settings": {
+              "title": "Design & proof",
+              "body": "Our team mocks it up. You approve every detail before a single inch is printed."
+            }
+          },
+          "step_3EUNpd": {
+            "type": "step",
+            "settings": {
+              "title": "Print & fabricate",
+              "body": "Production happens on-site with commercial-grade materials made to last."
+            }
+          },
+          "step_hXy7da": {
+            "type": "step",
+            "settings": {
+              "title": "Install & stand back",
+              "body": "We install on-vehicle or on-building — clean, level, ready to work for you."
+            }
+          }
+        },
+        "block_order": [
+          "step_zyJV4n",
+          "step_A8QJfA",
+          "step_3EUNpd",
+          "step_hXy7da"
+        ],
+        "settings": {
+          "heading": "Four steps. Zero surprises."
+        }
+      },
+      "gallery": {
+        "type": "gallery",
+        "blocks": {
+          "item_RjWByB": {
+            "type": "item",
+            "settings": {
+              "caption": ""
+            }
+          },
+          "item_4K9jU4": {
+            "type": "item",
+            "settings": {
+              "caption": ""
+            }
+          },
+          "item_M3n9az": {
+            "type": "item",
+            "settings": {
+              "caption": ""
+            }
+          }
+        },
+        "block_order": [
+          "item_RjWByB",
+          "item_4K9jU4",
+          "item_M3n9az"
+        ],
+        "settings": {
+          "heading": "Out on the road. Up on the wall."
+        }
+      },
+      "stats": {
+        "type": "stats",
+        "blocks": {
+          "stat_aaeGEk": {
+            "type": "stat",
+            "settings": {
+              "value": "15+",
+              "label": "Years in Lloydminster"
+            }
+          },
+          "stat_eAgj9i": {
+            "type": "stat",
+            "settings": {
+              "value": "2,400+",
+              "label": "Signs delivered"
+            }
+          },
+          "stat_EmwQAQ": {
+            "type": "stat",
+            "settings": {
+              "value": "24h",
+              "label": "Rush turnaround"
+            }
+          },
+          "stat_3qY4n6": {
+            "type": "stat",
+            "settings": {
+              "value": "100%",
+              "label": "Locally owned"
+            }
+          }
+        },
+        "block_order": [
+          "stat_aaeGEk",
+          "stat_eAgj9i",
+          "stat_EmwQAQ",
+          "stat_3qY4n6"
+        ],
+        "settings": {}
+      },
+      "reviews": {
+        "type": "reviews",
+        "blocks": {
+          "review_4x6W3x": {
+            "type": "review",
+            "settings": {
+              "quote": "Amazing place, will definitely do business with them again.",
+              "source": "Google review"
+            }
+          },
+          "review_4b8fA8": {
+            "type": "review",
+            "settings": {
+              "quote": "Quick and nice quality.",
+              "source": "Google review"
+            }
+          },
+          "review_mUhDLw": {
+            "type": "review",
+            "settings": {
+              "quote": "They are my go-to sign and promotion shop in town.",
+              "source": "Google review"
+            }
+          }
+        },
+        "block_order": [
+          "review_4x6W3x",
+          "review_4b8fA8",
+          "review_mUhDLw"
+        ],
+        "settings": {
+          "heading": "Trusted across the border city."
+        }
+      },
+      "contact": {
+        "type": "contact",
+        "settings": {}
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {}
+      }
+    },
+    "content_for_index": []
   },
   "presets": {
     "Default": {}
