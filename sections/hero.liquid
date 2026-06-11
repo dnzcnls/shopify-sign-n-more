@@ -18,15 +18,15 @@
       </dl>
     </div>
     <div class="hero-media">
+      <div class="hero-caption">
+        <p class="caption-title">Latest build</p>
+        <p>Fleet wrap · matte black + ember vinyl</p>
+      </div>
       {%- if section.settings.image != blank -%}
         <img src="{{ section.settings.image | image_url: width: 1200 }}" alt="{{ section.settings.image.alt | default: 'Custom vehicle wrap' | escape }}">
       {%- else -%}
         <img src="{{ 'hero-wrap.jpg' | asset_url }}" alt="Custom vehicle wrap being installed at Signs 'N More">
       {%- endif -%}
-      <div class="hero-caption">
-        <p class="caption-title">Latest build</p>
-        <p>Fleet wrap · matte black + ember vinyl</p>
-      </div>
       <div class="hero-badge">
         <p class="badge-num">24h</p>
         <p>Rush turnaround</p>
