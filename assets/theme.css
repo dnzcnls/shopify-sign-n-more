@@ -31,7 +31,7 @@ h1,h2,h3,h4{font-family:'Anton','Impact',sans-serif;text-transform:uppercase;let
 .btn-ghost:hover{border-color:var(--primary)}
 
 /* Header */
-.site-header{position:sticky;top:0;z-index:50;background:rgba(26,20,20,.85);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
+.site-header{position:sticky;top:0;z-index:50;background:#0a0a0a;backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
 .header-inner{display:flex;align-items:center;justify-content:space-between;height:4rem}
 .brand{display:flex;align-items:center;gap:.5rem}
 .brand-dot{width:.75rem;height:.75rem;background:var(--primary);display:inline-block}
