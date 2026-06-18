@@ -1,34 +1,185 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero": {
-      "type": "hero"
+      "type": "hero",
+      "settings": {
+        "eyebrow": "Lloydminster, SK · Est. Local",
+        "heading": "Signs that work as hard as your business.",
+        "subheading": "From rolling billboards to storefronts that pull traffic — we design, print, and install signage that gets you noticed across the prairies.",
+        "cta_label": "Get a free quote",
+        "cta_link": "#contact"
+      }
     },
     "marquee": {
-      "type": "marquee"
-    },
-    "services": {
-      "type": "services"
+      "type": "marquee",
+      "settings": {
+        "items": "Vehicle Wraps, Channel Letters, Vinyl Banners, Decals, Trade Show Displays, Apparel Print, Magnetic Signs, ACM Panels, Reflective Decals, Window Graphics"
+      }
     },
     "process": {
-      "type": "process"
+      "type": "process",
+      "blocks": {
+        "step_QW9HQK": {
+          "type": "step",
+          "settings": {
+            "title": "",
+            "body": ""
+          }
+        },
+        "step_NccFk7": {
+          "type": "step",
+          "settings": {
+            "title": "",
+            "body": ""
+          }
+        },
+        "step_48FX7B": {
+          "type": "step",
+          "settings": {
+            "title": "",
+            "body": ""
+          }
+        },
+        "step_GyCamp": {
+          "type": "step",
+          "settings": {
+            "title": "",
+            "body": ""
+          }
+        }
+      },
+      "block_order": [
+        "step_QW9HQK",
+        "step_NccFk7",
+        "step_48FX7B",
+        "step_GyCamp"
+      ],
+      "settings": {
+        "heading": "Four steps. Zero surprises."
+      }
     },
     "gallery": {
-      "type": "gallery"
+      "type": "gallery",
+      "blocks": {
+        "item_ae9hVK": {
+          "type": "item",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "item_WrYy8z": {
+          "type": "item",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "item_Tw98YM": {
+          "type": "item",
+          "settings": {
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_ae9hVK",
+        "item_WrYy8z",
+        "item_Tw98YM"
+      ],
+      "settings": {
+        "heading": "Out on the road. Up on the wall."
+      }
     },
     "stats": {
-      "type": "stats"
+      "type": "stats",
+      "blocks": {
+        "stat_V7QkWz": {
+          "type": "stat",
+          "settings": {
+            "value": "",
+            "label": ""
+          }
+        },
+        "stat_dFP9wA": {
+          "type": "stat",
+          "settings": {
+            "value": "",
+            "label": ""
+          }
+        },
+        "stat_PNhLyp": {
+          "type": "stat",
+          "settings": {
+            "value": "",
+            "label": ""
+          }
+        },
+        "stat_WQ9UaV": {
+          "type": "stat",
+          "settings": {
+            "value": "",
+            "label": ""
+          }
+        }
+      },
+      "block_order": [
+        "stat_V7QkWz",
+        "stat_dFP9wA",
+        "stat_PNhLyp",
+        "stat_WQ9UaV"
+      ],
+      "settings": {}
     },
     "reviews": {
-      "type": "reviews"
+      "type": "reviews",
+      "blocks": {
+        "review_VL4B3x": {
+          "type": "review",
+          "settings": {
+            "quote": "",
+            "source": "Google review"
+          }
+        },
+        "review_XkDgKN": {
+          "type": "review",
+          "settings": {
+            "quote": "",
+            "source": "Google review"
+          }
+        },
+        "review_eEVneg": {
+          "type": "review",
+          "settings": {
+            "quote": "",
+            "source": "Google review"
+          }
+        }
+      },
+      "block_order": [
+        "review_VL4B3x",
+        "review_XkDgKN",
+        "review_eEVneg"
+      ],
+      "settings": {
+        "heading": "Trusted across the border city."
+      }
     },
     "contact": {
-      "type": "contact"
+      "type": "contact",
+      "settings": {}
     }
   },
   "order": [
     "hero",
     "marquee",
-    "services",
     "process",
     "gallery",
     "stats",
