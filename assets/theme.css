@@ -1,26 +1,12 @@
 :root{
-        --background: lab(2.75381% 0 0);
-        --foreground: lab(95.3886% .58049 3.77289);
-        --surface: lab(6.19571% 0 0);
-        --surface-foreground: lab(95.3886% .58049 3.77289);
-        --card: lab(6.19571% 0 0);
-        --card-foreground: lab(95.3886% .58049 3.77289);
-        --popover: lab(6.19571% 0 0);
-        --popover-foreground: lab(95.3886% .58049 3.77289);
-        --primary: lab(53.6177% 70.2843 37.8638);
-        --primary-foreground: lab(95.3886% .58049 3.77289);
-        --secondary: lab(13% 0 0);
-        --secondary-foreground: lab(95.3886% .58049 3.77289);
-        --muted: lab(9.52% -.00000745058 0);
-        --muted-foreground: lab(62.9079% .593007 3.78128);
-        --accent: lab(53.6177% 70.2843 37.8638);
-        --accent-foreground: lab(95.3886% .58049 3.77289);
-        --destructive: lab(51.3582% 69.7345 44.3509);
-        --destructive-foreground: lab(95.3886% .58049 3.77289);
-        --border: lab(16.48% 0 0);
-        --input: lab(16.48% 0 0);
-        --ring: lab(53.6177% 70.2843 37.8638);
-        --grid-line: lab(100% 0 0 / .06);
+  --bg: #0a0a0a;
+  --fg: #f5f1ea;
+  --surface: #141414;
+  --muted:#1b1b1b;
+  --border:#292929;
+  --primary:#ed3345;
+  --primary-fg:#f5f1ea;
+  --grid:#ffffff0f;
 }
 *{box-sizing:border-box;border-color:var(--border);margin:0;padding:0}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
