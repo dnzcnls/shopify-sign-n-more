@@ -1,28 +1,127 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero": {
-      "type": "hero"
+      "type": "hero",
+      "settings": {
+        "eyebrow": "Lloydminster, SK · Est. Local",
+        "heading": "Signs that work as hard as your business.",
+        "subheading": "From rolling billboards to storefronts that pull traffic — we design, print, and install signage that gets you noticed across the prairies.",
+        "cta_label": "Get a free quote",
+        "cta_link": "#contact"
+      }
     },
     "marquee": {
-      "type": "marquee"
+      "type": "marquee",
+      "settings": {
+        "items": "Vehicle Wraps, Channel Letters, Vinyl Banners, Decals, Trade Show Displays, Apparel Print, Magnetic Signs, ACM Panels, Reflective Decals, Window Graphics"
+      }
     },
     "services": {
-      "type": "services"
+      "type": "services",
+      "blocks": {
+        "service_HpyxQ7": {
+          "type": "service",
+          "settings": {
+            "title": "Vehicle Wraps & Decals",
+            "body": "Partial wraps, full wraps, fleet branding, and cut lettering. High-performance vinyl built for prairie winters."
+          }
+        },
+        "service_yCfRHx": {
+          "type": "service",
+          "settings": {
+            "title": "Storefront & Business Signs",
+            "body": "Illuminated channel letters, dimensional signage, ACM panels, and exterior installs that earn second looks."
+          }
+        },
+        "service_jJ47mf": {
+          "type": "service",
+          "settings": {
+            "title": "Banners & Event Signage",
+            "body": "Vinyl banners, retractable displays, trade show backdrops — printed sharp, shipped fast."
+          }
+        },
+        "service_QEeWCC": {
+          "type": "service",
+          "settings": {
+            "title": "Promo Products & Apparel",
+            "body": "Branded merch, custom apparel, hats and giveaways — your logo on the things that get used every day."
+          }
+        }
+      },
+      "block_order": [
+        "service_HpyxQ7",
+        "service_yCfRHx",
+        "service_jJ47mf",
+        "service_QEeWCC"
+      ],
+      "settings": {
+        "heading": "Built in-house. Installed by us."
+      }
     },
     "process": {
-      "type": "process"
-    },
-    "gallery": {
-      "type": "gallery"
+      "type": "process",
+      "blocks": {
+        "step_Y6rJRj": {
+          "type": "step",
+          "settings": {
+            "title": "Tell us what you need",
+            "body": "Tell us what you need\", \"body\": \"Call, email or stop by the shop. We listen first — then quote fast."
+          }
+        },
+        "step_mYrE87": {
+          "type": "step",
+          "settings": {
+            "title": "Design & proof",
+            "body": "Our team mocks it up. You approve every detail before a single inch is printed."
+          }
+        },
+        "step_c3Gg7r": {
+          "type": "step",
+          "settings": {
+            "title": "Print & fabricate",
+            "body": "Production happens on-site with commercial-grade materials made to last."
+          }
+        },
+        "step_zMke8P": {
+          "type": "step",
+          "settings": {
+            "title": "Install & stand back",
+            "body": "We install on-vehicle or on-building — clean, level, ready to work for you."
+          }
+        }
+      },
+      "block_order": [
+        "step_Y6rJRj",
+        "step_mYrE87",
+        "step_c3Gg7r",
+        "step_zMke8P"
+      ],
+      "settings": {
+        "heading": "Four steps. Zero surprises."
+      }
     },
     "stats": {
-      "type": "stats"
+      "type": "stats",
+      "settings": {}
     },
     "reviews": {
-      "type": "reviews"
+      "type": "reviews",
+      "settings": {
+        "heading": "Trusted across the border city."
+      }
     },
     "contact": {
-      "type": "contact"
+      "type": "contact",
+      "settings": {}
     }
   },
   "order": [
@@ -30,7 +129,6 @@
     "marquee",
     "services",
     "process",
-    "gallery",
     "stats",
     "reviews",
     "contact"
